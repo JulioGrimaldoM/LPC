@@ -1,0 +1,627 @@
+
+Configuraci�n IP de Windows
+
+    bid.g.doubleclick.net
+    ----------------------------------------
+    Nombre de registro  . : bid.g.doubleclick.net
+    Tipo de registro  . . : 5
+    Per�odo de vida . . . : 117
+    Longitud de datos . . : 8
+    Secci�n . . . . . . . : respuesta
+    Registro CNAME. . . . : ads-bid.l.doubleclick.net
+
+
+    Nombre de registro  . : ads-bid.l.doubleclick.net
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 117
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 142.250.115.156
+
+
+    Nombre de registro  . : ads-bid.l.doubleclick.net
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 117
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 142.250.115.154
+
+
+    Nombre de registro  . : ads-bid.l.doubleclick.net
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 117
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 142.250.115.157
+
+
+    Nombre de registro  . : ads-bid.l.doubleclick.net
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 117
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 142.250.114.157
+
+
+    Nombre de registro  . : ads-bid.l.doubleclick.net
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 117
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 142.250.114.156
+
+
+    Nombre de registro  . : ads-bid.l.doubleclick.net
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 117
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 142.250.114.154
+
+
+    Nombre de registro  . : ads-bid.l.doubleclick.net
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 117
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 142.250.114.155
+
+
+    Nombre de registro  . : ads-bid.l.doubleclick.net
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 117
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 142.250.113.155
+
+
+    Nombre de registro  . : ads-bid.l.doubleclick.net
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 117
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 142.250.113.156
+
+
+    Nombre de registro  . : ads-bid.l.doubleclick.net
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 117
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 142.250.113.157
+
+
+    Nombre de registro  . : ads-bid.l.doubleclick.net
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 117
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 142.250.113.154
+
+
+    Nombre de registro  . : ads-bid.l.doubleclick.net
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 117
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 142.250.115.155
+
+
+    8a34569a86fa569eefb7ae3a399ca031.safeframe.googlesyndication.com
+    ----------------------------------------
+    Nombre de registro  . : 8a34569a86fa569eefb7ae3a399ca031.safeframe.googlesyndication.com
+    Tipo de registro  . . : 5
+    Per�odo de vida . . . : 2
+    Longitud de datos . . : 8
+    Secci�n . . . . . . . : respuesta
+    Registro CNAME. . . . : pagead-googlehosted.l.google.com
+
+
+    Nombre de registro  . : pagead-googlehosted.l.google.com
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 2
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 142.250.68.129
+
+
+    edgedl.me.gvt1.com
+    ----------------------------------------
+    Nombre de registro  . : edgedl.me.gvt1.com
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 853
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 34.104.35.123
+
+
+    id.google.com
+    ----------------------------------------
+    Nombre de registro  . : id.google.com
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 117
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 216.58.202.99
+
+
+    14.137.168.192.in-addr.arpa
+    ----------------------------------------
+    Nombre de registro  . : 14.137.168.192.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Per�odo de vida . . . : 486747
+    Longitud de datos . . : 8
+    Secci�n . . . . . . . : respuesta
+    Registro PTR. . . . . : amazon-5fb2f9f6e.mshome.net
+
+
+    stats.g.doubleclick.net
+    ----------------------------------------
+    Nombre de registro  . : stats.g.doubleclick.net
+    Tipo de registro  . . : 5
+    Per�odo de vida . . . : 9
+    Longitud de datos . . : 8
+    Secci�n . . . . . . . : respuesta
+    Registro CNAME. . . . : stats.l.doubleclick.net
+
+
+    Nombre de registro  . : stats.l.doubleclick.net
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 9
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 142.250.113.155
+
+
+    Nombre de registro  . : stats.l.doubleclick.net
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 9
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 142.250.113.156
+
+
+    Nombre de registro  . : stats.l.doubleclick.net
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 9
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 142.250.113.154
+
+
+    Nombre de registro  . : stats.l.doubleclick.net
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 9
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 142.250.113.157
+
+
+    play.google.com
+    ----------------------------------------
+    Nombre de registro  . : play.google.com
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 3
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 142.250.114.101
+
+
+    Nombre de registro  . : play.google.com
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 3
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 142.250.114.138
+
+
+    Nombre de registro  . : play.google.com
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 3
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 142.250.114.102
+
+
+    Nombre de registro  . : play.google.com
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 3
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 142.250.114.100
+
+
+    Nombre de registro  . : play.google.com
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 3
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 142.250.114.139
+
+
+    Nombre de registro  . : play.google.com
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 3
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 142.250.114.113
+
+
+    crl3.digicert.com
+    ----------------------------------------
+    Nombre de registro  . : crl3.digicert.com
+    Tipo de registro  . . : 5
+    Per�odo de vida . . . : 1384
+    Longitud de datos . . : 8
+    Secci�n . . . . . . . : respuesta
+    Registro CNAME. . . . : cs9.wac.phicdn.net
+
+
+    Nombre de registro  . : cs9.wac.phicdn.net
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 1384
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 72.21.91.29
+
+
+    lh3.googleusercontent.com
+    ----------------------------------------
+    Nombre de registro  . : lh3.googleusercontent.com
+    Tipo de registro  . . : 5
+    Per�odo de vida . . . : 5
+    Longitud de datos . . : 8
+    Secci�n . . . . . . . : respuesta
+    Registro CNAME. . . . : googlehosted.l.googleusercontent.com
+
+
+    Nombre de registro  . : googlehosted.l.googleusercontent.com
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 5
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 172.217.14.161
+
+
+    tpc.googlesyndication.com
+    ----------------------------------------
+    Nombre de registro  . : tpc.googlesyndication.com
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 30
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 142.251.33.1
+
+
+    ssl.gstatic.com
+    ----------------------------------------
+    Nombre de registro  . : ssl.gstatic.com
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 242
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 142.251.33.3
+
+
+    adservice.google.com.mx
+    ----------------------------------------
+    Nombre de registro  . : adservice.google.com.mx
+    Tipo de registro  . . : 5
+    Per�odo de vida . . . : 6
+    Longitud de datos . . : 8
+    Secci�n . . . . . . . : respuesta
+    Registro CNAME. . . . : pagead46.l.doubleclick.net
+
+
+    Nombre de registro  . : pagead46.l.doubleclick.net
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 6
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 172.217.14.162
+
+
+    gstatic.com
+    ----------------------------------------
+    Nombre de registro  . : gstatic.com
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 49
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 172.217.1.227
+
+
+    lh5.googleusercontent.com
+    ----------------------------------------
+    Nombre de registro  . : lh5.googleusercontent.com
+    Tipo de registro  . . : 5
+    Per�odo de vida . . . : 5
+    Longitud de datos . . : 8
+    Secci�n . . . . . . . : respuesta
+    Registro CNAME. . . . : googlehosted.l.googleusercontent.com
+
+
+    Nombre de registro  . : googlehosted.l.googleusercontent.com
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 5
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 172.217.14.161
+
+
+    desktop-5qdk6i4.mshome.net
+    ----------------------------------------
+    Nombre de registro  . : DESKTOP-5QDK6I4.mshome.net
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 486747
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 192.168.137.1
+
+
+    desktop-5qdk6i4.mshome.net
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    www.google.com
+    ----------------------------------------
+    Nombre de registro  . : www.google.com
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 2
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 142.251.33.36
+
+
+    amazon-5fb2f9f6e.mshome.net
+    ----------------------------------------
+    Nombre de registro  . : amazon-5fb2f9f6e.mshome.net
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 486747
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 192.168.137.14
+
+
+    amazon-5fb2f9f6e.mshome.net
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    www.googletagservices.com
+    ----------------------------------------
+    Nombre de registro  . : www.googletagservices.com
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 4
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 142.251.45.66
+
+
+    pagead2.googlesyndication.com
+    ----------------------------------------
+    Nombre de registro  . : pagead2.googlesyndication.com
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 26
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 142.251.33.2
+
+
+    cdnjs.cloudflare.com
+    ----------------------------------------
+    Nombre de registro  . : cdnjs.cloudflare.com
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 176
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 104.16.18.94
+
+
+    Nombre de registro  . : cdnjs.cloudflare.com
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 176
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 104.16.19.94
+
+
+    ocsp.digicert.com
+    ----------------------------------------
+    Nombre de registro  . : ocsp.digicert.com
+    Tipo de registro  . . : 5
+    Per�odo de vida . . . : 1384
+    Longitud de datos . . : 8
+    Secci�n . . . . . . . : respuesta
+    Registro CNAME. . . . : cs9.wac.phicdn.net
+
+
+    Nombre de registro  . : cs9.wac.phicdn.net
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 1384
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 72.21.91.29
+
+
+    s0.2mdn.net
+    ----------------------------------------
+    Nombre de registro  . : s0.2mdn.net
+    Tipo de registro  . . : 5
+    Per�odo de vida . . . : 7
+    Longitud de datos . . : 8
+    Secci�n . . . . . . . : respuesta
+    Registro CNAME. . . . : s0-2mdn-net.l.google.com
+
+
+    Nombre de registro  . : s0-2mdn-net.l.google.com
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 7
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 142.251.45.70
+
+
+    s.360safe.com
+    ----------------------------------------
+    Nombre de registro  . : s.360safe.com
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 57
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 54.255.136.181
+
+
+    Nombre de registro  . : s.360safe.com
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 57
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 54.254.196.234
+
+
+    fonts.googleapis.com
+    ----------------------------------------
+    Nombre de registro  . : fonts.googleapis.com
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 4
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 172.217.14.170
+
+
+    1.137.168.192.in-addr.arpa
+    ----------------------------------------
+    Nombre de registro  . : 1.137.168.192.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Per�odo de vida . . . : 486747
+    Longitud de datos . . : 8
+    Secci�n . . . . . . . : respuesta
+    Registro PTR. . . . . : DESKTOP-5QDK6I4.mshome.net
+
+
+    www.solvetic.com
+    ----------------------------------------
+    Nombre de registro  . : www.solvetic.com
+    Tipo de registro  . . : 5
+    Per�odo de vida . . . : 35
+    Longitud de datos . . : 8
+    Secci�n . . . . . . . : respuesta
+    Registro CNAME. . . . : www.solvetic.com.web.cdn.anycast.me
+
+
+    Nombre de registro  . : www.solvetic.com.web.cdn.anycast.me
+    Tipo de registro  . . : 5
+    Per�odo de vida . . . : 35
+    Longitud de datos . . : 8
+    Secci�n . . . . . . . : respuesta
+    Registro CNAME. . . . : 46-105-203-22.any.cdn.anycast.me
+
+
+    Nombre de registro  . : 46-105-203-22.any.cdn.anycast.me
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 35
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 46.105.203.22
+
+
+    4d70ce6d1add3a2c22195387ed2bc340.safeframe.googlesyndication.com
+    ----------------------------------------
+    Nombre de registro  . : 4d70ce6d1add3a2c22195387ed2bc340.safeframe.googlesyndication.com
+    Tipo de registro  . . : 5
+    Per�odo de vida . . . : 2
+    Longitud de datos . . : 8
+    Secci�n . . . . . . . : respuesta
+    Registro CNAME. . . . : pagead-googlehosted.l.google.com
+
+
+    Nombre de registro  . : pagead-googlehosted.l.google.com
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 2
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 142.250.68.129
+
+
+    google.com
+    ----------------------------------------
+    Nombre de registro  . : google.com
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 271
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 142.250.115.113
+
+
+    Nombre de registro  . : google.com
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 271
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 142.250.115.138
+
+
+    Nombre de registro  . : google.com
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 271
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 142.250.115.100
+
+
+    Nombre de registro  . : google.com
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 271
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 142.250.115.101
+
+
+    Nombre de registro  . : google.com
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 271
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 142.250.115.139
+
+
+    Nombre de registro  . : google.com
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 271
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 142.250.115.102
+
+
+    ade.googlesyndication.com
+    ----------------------------------------
+    Nombre de registro  . : ade.googlesyndication.com
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 32
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 142.251.35.194
+
+
+    googleads4.g.doubleclick.net
+    ----------------------------------------
+    Nombre de registro  . : googleads4.g.doubleclick.net
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 23
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 142.251.35.194
+
+
+    cloudsearch.googleapis.com
+    ----------------------------------------
+    Nombre de registro  . : cloudsearch.googleapis.com
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 27
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 172.217.1.138
+
+
